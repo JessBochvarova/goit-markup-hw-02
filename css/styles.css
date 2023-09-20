@@ -113,7 +113,7 @@ body {
   text-decoration: none;
 }
 
-.button:active,
+.button:focus,
 .button:hover {
   background-color: #404bbf;
   color: #ffffff;
@@ -233,6 +233,7 @@ body {
 .section-four {
   background-color: #f4f4fd;
 }
+
 .title-team {
   color: var(--hero-background-color);
   text-align: center;
