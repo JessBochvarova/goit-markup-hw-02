@@ -1,6 +1,6 @@
 :root {
-  --primary-font: 'Roboto', sans-serif;
-  --title-font: 'Raleway', sans-serif;
+  --primary-font: "Roboto", sans-serif;
+  --title-font: "Raleway", sans-serif;
   --primary-brand-color: #4d5ae5;
   --pressed-state-color: #404bbf;
   --primary-dark-color: #2e2f42;
@@ -16,7 +16,7 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: var(--white-background-color);
 }
@@ -33,7 +33,7 @@ body {
 
 .studio {
   color: var(--primary-brand-color);
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -44,7 +44,7 @@ body {
 
 .logo-studio {
   color: var(--primary-light-color);
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -106,6 +106,7 @@ body {
 .button {
   background-color: var(--primary-light-color);
   color: var(--primary-brand-color);
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -179,7 +180,7 @@ body {
 .button-main {
   background-color: #4d5ae5;
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -234,7 +235,6 @@ body {
 .section-four {
   background-color: #f4f4fd;
 }
-
 .title-team {
   color: var(--hero-background-color);
   text-align: center;
