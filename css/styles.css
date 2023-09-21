@@ -42,7 +42,10 @@ body {
 
 .logo-studio {
   color: var(--hero-background-color);
-  
+}
+
+.logo-studio-index{
+  color: var(--primary-light-color)
 }
 
 /*          menu     -portfolio and main page-        */
@@ -55,6 +58,13 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+
+.nav-link:hover,
+.nav-link:focus {
+  color: var(--pressed-state-color);
+}
+
 
 /* email & tel */
 
